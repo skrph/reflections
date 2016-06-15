@@ -1,3 +1,2 @@
-Instructor Notes
-
-No additional notes for this section
+When would you want to use a remote repository rather than keeping all your work local?
+	Whenewer I want to
